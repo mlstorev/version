@@ -1,4 +1,7 @@
 {
     "version": "1.0.0",
-    "description": []
+    "description": [
+        "Correction des bugs",
+        "Ajout de la vérification de version"
+    ]
 }
